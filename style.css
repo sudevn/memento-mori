@@ -230,6 +230,18 @@ body {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-dark-gray: #c9d1d9;
+    --color-dark-gray-filled: #c9d1d9;
+    --color-background: #0d1117;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: #c9d1d9;
+  }
+}
 
 .screen-reader-text {
   border: 0;
