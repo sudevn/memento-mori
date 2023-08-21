@@ -1,5 +1,5 @@
 // Set up vars
-const myBirthDay = '1988-11-01';
+const myBirthDay = '2000-11-25';
 const myLifeExpectancy = 80;
 const totalWeeksInLife = myLifeExpectancy * 52.1429; // As per the modern Gregorian calendar, one year is equal to 365 days whic is 52.1429 weeks in total
 
